@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">平静天气</string>
+    <string name="forecast">未来三天预报</string>
+    <string name="air_quality">空气质量</string>
+    <string name="hum">相对湿度：</string>
+    <string name="update">更新时间：</string>
+    <string name="suggestion">生活建议</string>
+    <string name="double_exit">再按一次退出</string>
+    <string name="separation">~</string>
+    <string name="edit">编辑</string>
+    <string name="cloth">穿衣指数---</string>
+    <string name="sport">运动指数---</string>
+    <string name="travel">旅游指数---</string>
+    <string name="flu">感冒指数---</string>
+    <string name="feelLike">体感温度：</string>
+    <string name="wind">风向风速：</string>
+    <string name="search">搜索</string>
+    <string name="noMatch">无匹配城市</string>
+</resources>

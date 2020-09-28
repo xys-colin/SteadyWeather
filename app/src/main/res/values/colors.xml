@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#26B1FF</color>
+    <color name="colorPrimaryDark">#008DF5</color>
+    <color name="colorAccent">#26B1FF</color>
+    <color name="textHint">#8C8C8C</color>
+    <!--多城市列表和卡片配色-->
+    <color name="defaultTextColor">#FFFFFF</color>
+    <color name="defaultCardColor">#8000</color>
+</resources>
